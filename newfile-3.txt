@@ -1,1 +1,5 @@
+yes
+C
+C
+C
 test newfile
